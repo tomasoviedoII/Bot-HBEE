@@ -58,13 +58,3 @@ Sistema de soporte que combina:
 - (Opcional) Tailwind / Bootstrap
 
 ---
-
-## 📸 Capturas de pantalla
-
-Se recomienda agregar una carpeta `docs/` con imágenes del panel:
-
-```text
-docs/
-  ├─ tickets-list.png       # listado de tickets
-  ├─ ticket-detail.png      # detalle de ticket
-  └─ dashboard.png          # (opcional) estadísticas
